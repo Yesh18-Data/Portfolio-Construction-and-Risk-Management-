@@ -16,13 +16,15 @@ This project focuses on the analysis and optimization of investment portfolios u
 - **Seaborn**: For statistical data visualization
 
 ## Key Features
-
 - **Data Collection**: Utilized `yfinance` to fetch historical stock prices and other relevant financial data.
 - **Data Cleaning**: Processed and cleaned the data using `pandas` to ensure consistency and accuracy.
-- **Exploratory Data Analysis (EDA)**: Conducted EDA to understand the data, identify patterns, and gain insights.
 - **Visualization**: Created various plots using `matplotlib` and `seaborn` to visualize the data and analysis results.
+- **Portfolio Construction**: Built a diversified investment portfolio using selected assets.
+- **Value at Risk (VaR)**: Calculated the potential loss in the portfolio's value over a defined period for a given confidence interval.
+- **Asset Allocation**: Determined the optimal distribution of assets in the portfolio to balance risk and return.
 - **Portfolio Optimization**: Applied optimization techniques to determine the optimal asset allocation for maximizing returns and minimizing risk.
 
+If you have any more details or features to include, let me know!
 ## Project Structure
 
 - `data/`: Contains the raw and cleaned datasets used in the analysis.
