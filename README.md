@@ -1,11 +1,11 @@
 
 # Portfolio Construction and Risk Management Project
 
-This repository contains the code and documentation for the Portfolio Analysis and Optimization project. The project leverages Python libraries to perform comprehensive analysis and optimization of investment portfolios.
+This repository contains the code and documentation for the Portfolio Construction and Risk Management  project. The project leverages Python libraries to perform comprehensive analysis and Risk management of investment portfolios.
 
 ## Project Overview
 
-This project focuses on the analysis and optimization of investment portfolios using historical stock data. The analysis aims to help stakeholders and investors make informed decisions based on data-driven insights. The primary tasks performed include data collection, cleaning, analysis, and visualization.
+This project focuses on the comprehensive analysis and Risk management of investment portfolios using historical stock data. The analysis aims to help stakeholders and investors make informed decisions based on data-driven insights. The primary tasks performed include data collection, cleaning, analysis, and visualization.
 
 ## Libraries Used
 
