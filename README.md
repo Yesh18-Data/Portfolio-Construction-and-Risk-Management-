@@ -1,5 +1,5 @@
 
-# Portfolio Analysis and Optimization Project
+# Portfolio Construction and Risk Management Project
 
 This repository contains the code and documentation for the Portfolio Analysis and Optimization project. The project leverages Python libraries to perform comprehensive analysis and optimization of investment portfolios.
 
