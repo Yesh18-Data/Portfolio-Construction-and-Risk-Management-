@@ -24,7 +24,6 @@ This project focuses on the comprehensive analysis and Risk management of invest
 - **Asset Allocation**: Determined the optimal distribution of assets in the portfolio to balance risk and return.
 - **Portfolio Optimization**: Applied optimization techniques to determine the optimal asset allocation for maximizing returns and minimizing risk.
 
-If you have any more details or features to include, let me know!
 ## Project Structure
 
 - `data/`: Contains the raw and cleaned datasets used in the analysis.
